@@ -24,14 +24,14 @@ A Flask-based web application that allows users to submit a job application form
 
 ## 📸 Screenshots
 
-![display1](images/display1.png/800x400)
-![display2](images/display2.png/800x400)
+![display1](images/display1.png)
+![display2](images/display2.png)
 
 ---
 
 ## 🎥 Demo
 
-![Demo Video](https://youtu.be/KgBOy_Ln0QM/800x400)
+![Demo Video](https://youtu.be/KgBOy_Ln0QM)
 
 ---
 
